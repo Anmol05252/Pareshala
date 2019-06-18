@@ -1,0 +1,55 @@
+
+
+
+
+
+    <section class="bg-white">
+       <!-- HOME -->
+        <section id="home" class="home white relative">
+            <!-- Hero Slider -->
+            
+              <div class="hero-slider fullheight custom-slider" data-slick='{"dots": false, "arrows": true, "fade": true, "speed": 1200, "draggable":false, "autoplay":true, "autoplaySpeed": 5000, "slidesToShow": 1, "slidesToScroll": 1, "responsive":[{"breakpoint": 1024,"settings":{"slidesToShow": 1}}]}'>
+                <!-- Slide -->
+                <div class="slide">
+                    <!-- Your Image -->
+                    <div class="slide-img skrollr" data-anchor-target="#home" data-0="transform:translate3d(0, 0px, 0px);" data-900="transform:translate3d(0px, 150px, 0px);" data-background="./content/home/home.jpg" data-mobile-background="content/home.jpg"></div>
+                    <!-- Details -->
+                    <div class="details">
+                        <!-- Centered Container -->
+                        <div class="container v-center">
+                            <div class="skrollr" data-0="opacity:1;" data-400="opacity:0;">
+                                <!-- Center aligned texts -->
+                                <div class="home-title t-center playfair italic lh-normal animated" data-animation="fadeInUp" data-animation-delay="100">
+                                    Our first goal is to present our customers with the professional <br class="visible-lg">
+                                    designs and most easily editable themes.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Details -->
+                </div>
+              
+                <!-- End Slide -->
+            </div>
+               
+            
+            <!-- End Hero Slider -->
+
+
+<div class="content-box col-lg-6 col-12 no-pd animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="300" style="height: 450px;">
+                    <ul class="custom-slider no-pm qdr-controls-2 slick-initialized slick-slider" data-slick="{&quot;arrows&quot;: true, &quot;draggable&quot;: true, &quot;autoplay&quot;: false, &quot;fade&quot;:true, &quot;speed&quot;: 700, &quot;slidesToShow&quot;: 1, &quot;slidesToScroll&quot;: 1,  &quot;responsive&quot;:[{&quot;breakpoint&quot;: 1024,&quot;settings&quot;:{&quot;slidesToShow&quot;: 1}}]}" style="letter-spacing: 2px;"><button type="button" data-role="none" class="slick-prev slick-arrow" role="button" style=""><span></span></button>
+                        <div aria-live="polite" class="slick-list draggable" style="height: 450px;"><div class="slick-track" style="opacity: 1; width: 1276px;" role="listbox"><li class="slick-slide" data-slick-index="0" aria-hidden="true" style="width: 638px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 700ms ease 0s;" tabindex="-1" role="option" aria-describedby="slick-slide10"><img src="content/everest/images/content_05.jpg" alt=""></li><li class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 638px; position: relative; left: -638px; top: 0px; z-index: 999; opacity: 1;" tabindex="-1" role="option" aria-describedby="slick-slide11"><img src="content/everest/images/content_05_1.jpg" alt=""></li></div></div>
+                        
+                    <button type="button" data-role="none" class="slick-next slick-arrow" role="button" style=""><span></span></button>
+                </ul>
+                </div>
+
+<div class="content-box col-lg-6 col-12 no-pd animated" data-animation="fadeInUp" data-animation-delay="300">
+                    <div class="custom-slider no-pm qdr-controls-2" data-slick='{"arrows": true, "draggable": true, "autoplay": false, "fade":true, "speed": 700, "slidesToShow": 1, "slidesToScroll": 1,  "responsive":[{"breakpoint": 1024,"settings":{"slidesToShow": 1}}]}'>
+                        <li><img src="content/s6.jpg" alt=""></li>
+                        <li><img src="content/s8.jpg" alt=""></li>
+                    </div>
+                </div>
+
+
+
